@@ -83,7 +83,7 @@ DevOps: Docker, Linux, CI/CD (learning)
 
 💼 LinkedIn: https://www.linkedin.com/in/clinton-magoto-196ba6387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-🌐 Portfolio:coming soon.
+🌐 Portfolio:https://cleent0ne.github.io/my-portfolio/
 
 ⚡ Fun Fact
 
