@@ -1,94 +1,15 @@
-👋 Hi there, I'm Clinton Magoto (cleent0ne).
+# 💫 About Me:
+🎓 Computer Science graduate with strong engineering fundamentals<br>💼 Backend-focused engineer specializing in the Java Spring Boot ecosystem<br>🌐 Full-stack developer building end-to-end applications<br>🧑🏽‍💻 Passionate about APIs, microservices, and system design<br>📱 Expanding into mobile development with Flutter<br>🐍 Working with Python for automation, scripting, and backend tasks<br>📚 Continuously learning distributed systems, cloud, and DevOps<br>🌍 Based in Kenya
 
-🚀 Backend Engineer | Java Spring Boot Specialist | Full-Stack Developer
 
-Welcome to my GitHub — where robust backend systems meet clean code architecture 💻.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=cleent0ne&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=cleent0ne&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=cleent0ne&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm a passionateBackend Engineer specializing in Java Spring Boot 
-ecosystem, building scalable and efficient server-side solutions.
+---
+[![](https://komarev.com/ghpvc/?username=cleent0ne&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🧠 About Me
-
-🎓 Focused on Backend Engineering & System Architecture
-
-💼 Java Spring Boot Specialist with production-ready experience
-
-🧑🏽‍💻 Passionate about REST APIs, microservices, and database design
-
-🛠️ Building scalable backend systems with Spring Framework
-
-🌍 Based in Kenya
-
-📚 Continuous learner in distributed systems and cloud technologies
-
-🧰 Tech Stack
-
-🚀 Backend Specialization
-
-Java Ecosystem: Spring Boot, Spring MVC, Spring Data JPA, Spring Security
-
-APIs & Services: REST APIs, Microservices, Web Services
-
-Databases: PostgreSQL, MySQL, MongoDB, Hibernate
-
-Testing: JUnit, Mockito
-
-🎨 Frontend Skills
-
-Frontend: HTML, CSS, JavaScript, React
-
-Tools: Git, GitHub, VS Code, IntelliJ IDEA, Maven
-
-DevOps: Docker, Linux, CI/CD (learning)
-
-🌟 Projects I'm Building
-
-🏦 Mpesa Daraja API Integration
-
-· Spring Boot application integrating with Safaricom's Mpesa API
-
-· Secure authentication and payment processing
-
-💼 Enterprise Backend Systems
-
-· Spring Boot microservices for business applications
-
-· JWT authentication with Spring Security
-
-· PostgreSQL database design and optimization
-
-🚀 API Development
-
-· Robust REST APIs with proper documentation
-
-· Database integration with Spring Data JPA
-
-· Exception handling and logging strategies
-
-🧭 Goals
-
-🏗️ Master microservices architecture and distributed systems
-
-📚 Deepen expertise in Spring ecosystem and cloud technologies
-
-🔒 Become an expert in API security and performance optimization
-
-🌐 Contribute to open-source Java projects
-
-🚀 Build enterprise-grade backend solutions
-
-🧑🏽‍💻 Let's Connect
-
-📧 Email: clintonmg17@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/clinton-magoto-196ba6387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-🌐 Portfolio:https://cleent0ne.github.io/my-portfolio/
-
-⚡ Fun Fact
-
-I believe great backend systems are the invisible engine that powers amazing user experiences.
-
-⭐ If you like my work, consider following me and starring my projects.
-
-☕ Let's build robust backend systems together — one Spring Bean at a time.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
