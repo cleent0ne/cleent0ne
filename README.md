@@ -1,9 +1,27 @@
-# 💫 About Me:
-# 👋 Hi, I'm Clinton Magoto<br><br>🚀 Backend Engineer (Java | Spring Boot)  <br>Building real-world systems focused on fintech, APIs, and scalable backend architecture.<br><br>---<br><br>## 🧠 About Me<br><br>I’m a self-taught backend engineer focused on **building production-style systems**, not just tutorials.<br><br>Currently working on:<br>- 💰 Fintech Payment API (M-Pesa style simulation)<br>- 📦 Logistics backend system (coming next)<br>- 🏢 Multi-tenant SaaS platform<br><br>I focus on:<br>- Clean architecture<br>- API design<br>- Database modeling<br>- Real-world problem solving<br><br>---<br><br>## 🛠 Tech Stack<br><br>**Backend:**<br>- Java<br>- Spring Boot<br>- REST APIs<br><br>**Database:**<br>- PostgreSQL<br>- MySQL<br><br>**Tools:**<br>- Git & GitHub<br>- Docker<br>- Postman<br><br>---<br><br>## 🔥 Featured Projects<br><br>### 💰 Fintech Payment API<br>Production-style backend simulating real-world payment systems.<br><br>**Features:**<br>- JWT Authentication (`/register`, `/login`, `/me`)<br>- Wallet system (in progress)<br>- Transaction handling (coming)<br>- Payment simulation (coming)<br><br>🔗 https://github.com/cleent0ne/fintech-project<br><br>---<br><br>## 📈 Current Focus<br><br>- Building scalable backend systems  <br>- Understanding system design deeply  <br>- Writing clean, maintainable code  <br>- Documenting everything I build  <br><br>---<br><br>## 🧪 What I'm Learning Right Now<br><br>- JWT authentication (deep dive)<br>- Database transactions & consistency<br>- Fintech system design<br><br>---<br><br>## 📫 Connect With Me<br><br>- LinkedIn: www.linkedin.com/in/clinton-magoto-196ba6387<br>- GitHub: https://github.com/cleent0ne<br><br>---<br><br>## ⚡ Fun Fact<br><br>I don’t just learn code — I build systems and document the entire process publicly.
+# 👋 Clinton Magoto  
+🚀 Backend Engineer (Java | Spring Boot) — fintech, APIs, scalable systems.
 
+## 🧠 About Me  
+Self-taught backend engineer building production-style systems.  
+🔨 Current: Fintech Payment API (M-Pesa style), Logistics backend, Multi-tenant SaaS.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/clinton-magoto-196ba6387) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clintonmg17@gmail.com) 
+## 🛠 Tech Stack  
+Java · Spring Boot · REST APIs · PostgreSQL/MySQL · Git · Docker · Postman
+
+## 🔥 Featured  
+💰 [Fintech Payment API](https://github.com/cleent0ne/fintech-project) — JWT auth, wallet system, transactions.
+
+## 📈 Focus  
+Scalable backends · system design · clean code · public building
+
+## 🧪 Learning  
+JWT deep dive · DB transactions · fintech architecture
+
+## 📫 Connect  
+LinkedIn --(www.linkedin.com/in/clinton-magoto-196ba6387) ·
+GitHub--(https://github.com/cleent0ne)
+
+⚡ Build systems, not tutorials. Document everything.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
