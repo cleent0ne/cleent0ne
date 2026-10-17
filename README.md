@@ -23,7 +23,7 @@ I design and ship production-style systems, and I document the process as I go.
 **💰 [Fintech Payment API](https://github.com/cleent0ne/fintech-project)**
 M-Pesa-style payment backend with JWT authentication, a wallet system, and transaction processing built around database transaction integrity.
 
-**🚨 Incident Room** *(add repo link)*
+**🚨 Incident Room** *(backend= https://github.com/cleent0ne/incident-room-backend  frontend= https://github.com/cleent0ne/Incident-room-frontend)*
 SRE incident-simulation web app with a Next.js frontend and a Spring Boot backend.
 
 **🧠 RAG Demo** *(add repo link)*
