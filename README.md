@@ -26,7 +26,7 @@ M-Pesa-style payment backend with JWT authentication, a wallet system, and trans
 **🚨 Incident Room** *(backend= https://github.com/cleent0ne/incident-room-backend  frontend= https://github.com/cleent0ne/Incident-room-frontend)*
 SRE incident-simulation web app with a Next.js frontend and a Spring Boot backend.
 
-**🧠 RAG Demo** *(add repo link)*
+**🧠 RAG Demo** 
 Retrieval-augmented generation app using Spring Boot, LangChain4j, and Postgres/pgvector.
 
 ---
