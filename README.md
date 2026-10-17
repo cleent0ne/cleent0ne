@@ -43,7 +43,7 @@ AI agents and RAG pipelines · Payment system architecture · Database transacti
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/clinton-magoto-196ba6387) · [GitHub](https://github.com/cleent0ne)
+[LinkedIn](linkedin.com/in/clinton-m-479199429) · [GitHub](https://github.com/cleent0ne)
 
 > ⚡ Build systems, not tutorials. Document everything.
 
